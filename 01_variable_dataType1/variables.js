@@ -18,3 +18,7 @@ let person = {
     isStudent: 'true'
 }
 console.log(typeof person);
+
+
+
+
