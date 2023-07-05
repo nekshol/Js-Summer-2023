@@ -61,7 +61,8 @@ console.log(`product with the lowest price; ${lowestPrice.Name}, Price; ${lowest
 
 // Use a for of loop to calculate the total value of all products in the array.
 
-//Did not understand.
+let valueOfAllProducts = products[0];
+
  
 
 
@@ -78,4 +79,4 @@ for (let i = 1; i <= 100; i++) {
         console.log(i);
     }
 
-}
+};
